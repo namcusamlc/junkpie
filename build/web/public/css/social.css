@@ -1,0 +1,34 @@
+.social-box {
+    box-shadow: none;
+    border: 0 solid #000;
+    border-radius: 0;
+}
+
+.social-heading {
+    font-size: inherit;
+    font-weight: inherit;
+    color: #fff;
+    background: #303030;
+    border-bottom: 0 solid #000;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    padding: 7px 15px;
+    margin: 0;
+    font-size: 22px;
+    line-height: 24px;
+}
+
+.social-content {
+    padding: 7px 15px;
+    background: rgba(114,47,49, 0.4);
+}
+
+.social-line-item {
+    display: flex;
+    align-content: center;
+}
+
+.social-line-item > a {
+    color: #fff;
+    line-height: 22px;
+}

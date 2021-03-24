@@ -1,0 +1,23 @@
+.footer {
+    color: #fff;
+    background-color: #303030; 
+}
+
+.footer-item {
+    border: solid 0 #fff;
+    background: #fff;
+    font-size: 14.4px;
+    line-height: 14.4px;
+    padding: 2px 2px 1px;
+    margin: 3px 2px 0 0;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px #595959;
+    float: left;
+    text-align: center;
+    color: #000;
+    font-weight: 700;
+    width: 10px;
+}
+
+
+
